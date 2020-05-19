@@ -1,7 +1,10 @@
-# Java Koans 
+## Implementation of Java Koans exercises
 
 This project was forked from [matyb/java-koans](https://github.com/matyb/java-koans), a framework and lessons to learn 
 and practice java by making tests pass.
 
-* Change directory to the koans directory: ```cd koans```
-* If you are using windows enter: ```run.bat``` or ```./run.sh``` if you are using Mac or Linux
+To run all tests (run.bat if using windows):
+```
+cd koans
+./run.sh 
+```
